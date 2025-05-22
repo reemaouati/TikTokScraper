@@ -4,10 +4,10 @@ Scrapes TikTok user info by `username`.
 ## Installation
 - Import script from URL:
 ```
-https://raw.githubusercontent.com/reemaouati/TikToker/refs/heads/main/TikToker.js
+https://raw.githubusercontent.com/reemaouati/TikTokScraper/refs/heads/main/TikTokScraper.js
 ```
 
-- Import script from file: [TikToker](./TikToker.js)
+- Import script from file: [TikTokScraper](./TikTokScraper.js)
 
 Built for [Via](https://viayoo.com/en/) browser.
 
