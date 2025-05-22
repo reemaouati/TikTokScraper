@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TikToker - TikTok Scraper
+// @name         TikTok Scraper
 // @namespace    https://github.com/reemaouati
 // @version      0.1
 // @description  Scrapes TikTok user info by username.
