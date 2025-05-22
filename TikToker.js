@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Scrapes TikTok user info by username.
 // @author       Reem Aouati
-// @match        https://*/*
+// @match        https://www.tiktok.com/@*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
