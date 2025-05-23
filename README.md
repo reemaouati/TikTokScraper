@@ -1,6 +1,8 @@
 # TikToker
 Scrapes TikTok user info by `username`.
 
+## Preview
+![preview](preview.png)
 ## Installation
 - Import script from URL:
 ```
